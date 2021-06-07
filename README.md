@@ -10,7 +10,7 @@ Animation codes for MathMizo, a youtube channel, based on Manim Community python
 -  [Docker](#docker)
 -  [Help with Manim](#help-with-manim)
 -  [Contributing](#contributing)
--  [About Manim](#about manim)
+-  [About Manim](#about)
 -  [License](#license)
 
 ## About Manim
