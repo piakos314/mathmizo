@@ -49,6 +49,16 @@ class MathMizoLOGO(Scene):
             CircleCurvy(color = PURPLE_D, phase = PI),
             CircleCurvy(color = RED_D, phase = 3 * PI/2)
         ]
+        '''
+        the parameters of circlecurvy are
+
+        theta = 2*PI,
+        step_size =0.05,
+        amplitude = 0.3,
+        radius = 3.2,
+        frequency =4,
+        phase = 0
+        '''
         surround_curve = VGroup(*[x for x in surround_curves]).move_to(ORIGIN).rotate(-PI/8)
         surround_curve.shift(0.15*LEFT + 0.35*UP)
 
@@ -91,7 +101,7 @@ class MathMizoLOGO(Scene):
         self.wait(0.5)
 
         # MathMizo wordings to "continue..."
-        self.play(combined.animate.scale(0.5).shift(0.5*UP), FadeInFrom(mathmizo, ORIGIN+3*DOWN), run_time  = 0.5)
+        self.play(combined.animate.scale(0.5).shift(0.5*UP), FadeIn(mathmizo, shift = 3*UP), run_time  = 0.5)
         self.wait(1.2)
         self.play(TransformMatchingShapes(mathmizo, comming, path_arc = PI/2), run_time = 0.5)
         self.play(TransformMatchingShapes(comming, comming1), run_time=0.3)
