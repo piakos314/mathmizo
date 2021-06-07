@@ -1,17 +1,16 @@
-# mathmizo
+# MathMizo
 
 Animation codes for MathMizo, a youtube channel, based on Manim Community python library.
 
 ## Table of Contents:
 
--  [Installation](#installation)
--  [Usage](#usage)
--  [Documentation](#documentation)
--  [Docker](#docker)
--  [Help with Manim](#help-with-manim)
 -  [Contributing](#contributing)
 -  [About Manim](#about-manim)
 -  [License](#license)
+
+## Contributing
+
+Contributions to MathMizo are always welcome. Please contact me on my [email](mathematicsmizo@gmail.com) so that we can come up with a proper plan to work together.
 
 ## About Manim
 
