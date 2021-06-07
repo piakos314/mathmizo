@@ -3,12 +3,6 @@ from manim import *
 
 class MathMizoLOGO(Scene):
     def construct(self):
-        #colors
-        self.camera.background_color = BLACK
-        logo_green = "#87c2a5"
-        logo_blue = "#525893"
-        logo_red = "#e07a5f"
-        logo_black = "#343434"
 
         #object colors
         mcolor = WHITE
