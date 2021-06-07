@@ -7,7 +7,8 @@
 
 # MathMizo
 
-Animation codes for MathMizo, a youtube channel, based on Manim Community python library.
+Animation codes for [MathMizo](https://www.youtube.com/channel/UCVK3TuJYpg6IaVVqyp_Ce1w), a Youtube channel.
+The codes here are mainly Python, widely utilizing [Manim](#about-manim) library.
 
 ## Table of Contents:
 
