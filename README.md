@@ -4,13 +4,9 @@ Animation codes for MathMizo, a youtube channel, based on Manim Community python
 
 ## About Manim
 
-@Manual{Manim:v0.7.0,
-  key =          {Manim},
-  author =       {{The Manim Community Developers}},
-  title =        {{Manim} -- {M}athematical {A}nimation {F}ramework ({V}ersion v0.7.0)},
-  note =         {\url{https://www.manim.community}},
-  year =         2021,
-}
+Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as demonstrated in the videos of [3Blue1Brown](https://www.3blue1brown.com/).
+
+A version of Manim maintained my a community, [Manim Community](https://www.manim.community) is mainly used here.
 
 ## License
 
