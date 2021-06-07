@@ -20,4 +20,4 @@ A community maintained version of Manim, [Manim Community](https://www.manim.com
 
 ## License
 
-The software is triple-licensed under the MIT license, with copyright by 3blue1brown LLC (see LICENSE), copyright by Manim Community Developers (see LICENSE.community), and copyright by MathMizo (see LICENSE).
+The software is triple-licensed under the MIT license, with copyright by 3blue1brown LLC (see LICENSE.3B1B), copyright by Manim Community Developers (see LICENSE.community), and copyright by MathMizo (see LICENSE).
