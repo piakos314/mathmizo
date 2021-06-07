@@ -1,5 +1,11 @@
 # MathMizo
 
+<p align="left">
+    <a href="https://github.com/piakos314/mathmizo">
+        <img src="https://raw.githubusercontent.com/piakos314/mathmizo/master/MathMizoLogo.png">
+    </a>
+</p>
+
 Animation codes for MathMizo, a youtube channel, based on Manim Community python library.
 
 ## Table of Contents:
