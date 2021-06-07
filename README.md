@@ -10,7 +10,7 @@ Animation codes for MathMizo, a youtube channel, based on Manim Community python
 
 ## Contributing
 
-Contributions to MathMizo are always welcome. Please contact me on my [email](https://mathematicsmizo@gmail.com) so that we can come up with a proper plan to work together.
+Contributions to MathMizo are always welcome. Please contact me on my [email](mailto:mathematicsmizo@gmail.com) so that we can come up with a proper plan to work together.
 
 ## About Manim
 
