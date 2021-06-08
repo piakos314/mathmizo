@@ -21,3 +21,9 @@ class bgc(Scene):
         p4 = Rectangle(height=0.5, width=1.8, color=BLUE_C).shift(3.5*RIGHT + 0.1* UP)
         pp = VGroup(p1, p2, p3, p4).move_to(ORIGIN).shift(RIGHT*1.2)
         self.add(pp)
+
+class black(Scene):
+    def construct(self):
+        p1 = Circle(color=BLACK)
+        self.add(p1)
+        
