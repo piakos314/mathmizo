@@ -1,5 +1,5 @@
 from manim import *
-
+'''
 class CircleCurvy(VMobject):
     def __init__(
         self,
@@ -17,7 +17,7 @@ class CircleCurvy(VMobject):
             (radius + amplitude * np.sin(phase+ frequency * t)) * np.sin(t), 0])
             for t in theta]
         self.set_points_smoothly(points)
-
+'''
 class enscene(Scene):
     def construct(self):        
         cir = [
