@@ -6,7 +6,7 @@ class CircleCurvy(VMobject):
         theta = 2*PI,
         step_size =0.05,
         amplitude = 0.34,
-        radius = 3,
+        radius = 3.1,
         frequency =4,
         phase = 0,
         **kwargs):
