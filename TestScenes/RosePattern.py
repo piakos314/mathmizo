@@ -50,7 +50,7 @@ class Increasingcircle(Scene):
 		def increaser(mobj, dt):
 			mobj.radius=5
 
-		circ = OpenGLCircle(radius = 1, color = RED)
+		circ = Circle(radius = 1, color = RED)
 
 		self.play(Create(circ))
 		#self.play(circ.animate.set(radius=5))
